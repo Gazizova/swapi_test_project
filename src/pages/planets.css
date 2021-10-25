@@ -1,0 +1,10 @@
+.svgGroup {
+  transform: translate(0, 20);
+}
+.svgMain {
+  min-height: 100%;
+  min-width: 450px;
+}
+.planetWrapper {
+  background: blue;
+}
